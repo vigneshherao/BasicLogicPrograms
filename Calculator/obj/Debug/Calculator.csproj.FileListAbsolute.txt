@@ -1,0 +1,8 @@
+C:\Users\vignesh\Desktop\skill_House\Basicprograms\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\vignesh\Desktop\skill_House\Basicprograms\Calculator\bin\Debug\Calculator.exe
+C:\Users\vignesh\Desktop\skill_House\Basicprograms\Calculator\bin\Debug\Calculator.pdb
+C:\Users\vignesh\Desktop\skill_House\Basicprograms\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\vignesh\Desktop\skill_House\Basicprograms\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\vignesh\Desktop\skill_House\Basicprograms\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\vignesh\Desktop\skill_House\Basicprograms\Calculator\obj\Debug\Calculator.exe
+C:\Users\vignesh\Desktop\skill_House\Basicprograms\Calculator\obj\Debug\Calculator.pdb
